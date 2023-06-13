@@ -1,0 +1,17 @@
+{
+  "ac7ab908-6f10-4611-8eec-c6ab3afecd01": {
+    "marca": "Ferrari",
+    "modelo": "F40",
+    "asientos": 2
+  },
+  "93af9fb1-da81-4794-8257-7405cd3bd888": {
+    "marca": "Porsche",
+    "modelo": "911",
+    "asientos": 2
+  },
+  "60dc52fc-a2df-4e07-acaf-a66cd9160fc4": {
+    "marca": "Lamborghini",
+    "modelo": "murcielago",
+    "asientos": 2
+  }
+}
